@@ -1,3 +1,4 @@
-# Spark_Java_Program
-Java Code for the implementation of the use case 4
-Use case 4 : Directors who have won awards more than 10 times
+# Spark Bigdata Project -Movie Award Data Analysis
+The dataset contains the following fields: Director_name,Ceremony,Year,Category,Outcome,Original language.
+This repository has the code for the implementation of the project by both scala and java scripts.
+
